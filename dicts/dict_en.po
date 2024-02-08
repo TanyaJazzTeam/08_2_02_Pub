@@ -4,758 +4,571 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Language: es_ES\n"
+"X-Language: en_US\n"
 
-#: 
 msgid "About"
-msgstr "Acerca de"
+msgstr ""
 
-#: 
 msgid "Address"
-msgstr "Dirección"
+msgstr ""
 
-#: 
 msgid "All"
-msgstr "Todos"
+msgstr ""
 
-#: 
 msgid "All files"
-msgstr "Todos los archivos"
+msgstr ""
 
-#: 
 msgid "Analyze"
-msgstr "Analizar"
+msgstr ""
 
-#: 
 msgid "Appearance"
-msgstr "Apariencia"
+msgstr ""
 
-#: 
 msgid "Architecture"
-msgstr "Arquitectura"
+msgstr ""
 
-#: 
 msgid "Archive"
-msgstr "Archivo"
+msgstr ""
 
-#: 
 msgid "Archive record"
-msgstr "Registro de archivo"
+msgstr ""
 
-#: 
 msgid "Base address"
-msgstr "Dirección base"
+msgstr ""
 
-#: 
 msgid "Begin"
-msgstr "Principio"
+msgstr ""
 
-#: 
 msgid "Byte"
-msgstr "Byte"
+msgstr ""
 
-#: 
 msgid "Bytes"
-msgstr "Bytes"
+msgstr ""
 
-#: 
 msgid "Calculate"
-msgstr "Calcular"
+msgstr ""
 
-#: 
 msgid "Calls"
-msgstr "Llamadas"
+msgstr ""
 
-#: 
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr ""
 
-#: 
 msgid "Cannot open file"
-msgstr "No puede abrir el archivo"
+msgstr ""
 
-#: 
 msgid "Cannot save file"
-msgstr "No se puede guardar el archivo"
+msgstr ""
 
-#: 
 msgid "Certificate"
-msgstr "Certificado"
+msgstr ""
 
-#: 
 msgid "Check updates"
-msgstr "Revisa actualizaciones"
+msgstr ""
 
-#: 
 msgid "Clear"
-msgstr "Limpiar"
+msgstr ""
 
-#: 
 msgid "Close"
-msgstr "Cerrar"
+msgstr ""
 
-#: 
 msgid "Code section"
-msgstr "Sección de código"
+msgstr ""
 
-#: 
 msgid "Commands"
-msgstr "Comandos"
+msgstr ""
 
 msgid "Comment"
 msgstr ""
 
-#: 
 msgid "Compiler"
-msgstr "Compilador"
+msgstr ""
 
-#: 
 msgid "Context"
-msgstr "Contexto"
+msgstr ""
 
-#: 
 msgid "Converter"
-msgstr "Convertidor"
+msgstr ""
 
-#: 
 msgid "Copy"
-msgstr "Copiar"
+msgstr ""
 
-#: 
 msgid "Copy address"
-msgstr "Copiar dirección"
+msgstr ""
 
-#: 
 msgid "Copy as hex"
-msgstr "Copiar como hexadecimal"
+msgstr ""
 
-#: 
 msgid "Copy offset"
-msgstr "Copiar offset"
+msgstr ""
 
-#: 
 msgid "Copy size"
-msgstr "Copiar tamaño"
+msgstr ""
 
-#: 
 msgid "Copy string"
-msgstr "Copiar texto"
+msgstr ""
 
-#: 
 msgid "Count"
-msgstr "Contar"
+msgstr ""
 
-#: 
 msgid "Create view model"
-msgstr "Crear modelo de vista"
+msgstr ""
 
-#: 
 msgid "Cryptor"
-msgstr "Criptor"
+msgstr ""
 
-#: 
 msgid "Cursor"
-msgstr "Cursor"
+msgstr ""
 
-#: 
 msgid "Database"
-msgstr "Base de datos"
+msgstr ""
 
-#: 
 msgid "Debug data"
-msgstr "Datos de depuración"
+msgstr ""
 
-#: 
 msgid "Debugger"
-msgstr "Depurador"
+msgstr ""
 
-#: 
 msgid "Deep scan"
-msgstr "Análisis en profundidad"
+msgstr ""
 
-#: 
 msgid "Detect"
-msgstr "Detectar"
+msgstr ""
 
-#: 
 msgid "Device scan"
-msgstr "Escaneo de dispositivos"
+msgstr ""
 
-#: 
 msgid "Directory scan"
-msgstr "Escaneo de directorio"
+msgstr ""
 
-#: 
 msgid "Disasm"
-msgstr "Desensamblar"
+msgstr ""
 
-#: 
 msgid "Documents"
-msgstr "Documentos"
+msgstr ""
 
-#: 
 msgid "Donate"
-msgstr "Donar"
+msgstr ""
 
-#: 
 msgid "Dump"
-msgstr "Volcar"
+msgstr ""
 
-#: 
 msgid "Dump to file"
-msgstr "Volcar a archivo"
+msgstr ""
 
-#: 
 msgid "Edit"
-msgstr "Editar"
+msgstr ""
 
-#: 
 msgid "Endianness"
-msgstr "Endianness"
+msgstr ""
 
-#: 
 msgid "Entropy"
-msgstr "Entropía"
+msgstr ""
 
-#: 
 msgid "Entry point"
-msgstr "Punto de entrada"
+msgstr ""
 
-#: 
 msgid "Entry point section"
-msgstr "Sección de punto de entrada"
+msgstr ""
 
-#: 
 msgid "Error"
-msgstr "Error"
+msgstr ""
 
-#: 
 msgid "Exit"
-msgstr "Salida"
+msgstr ""
 
-#: 
 msgid "Export"
-msgstr "Exportar"
+msgstr ""
 
-#: 
 msgid "Export file name"
-msgstr "Exportar nombre de archivo"
+msgstr ""
 
-#: 
 msgid "File"
-msgstr "Archivo"
+msgstr ""
 
-#: 
 msgid "File name"
-msgstr "Nombre del archivo"
+msgstr ""
 
-#: 
 msgid "File offset"
-msgstr "Archivo offset"
+msgstr ""
 
-#: 
 msgid "File scan"
-msgstr "Escaneo de archivos"
+msgstr ""
 
-#: 
 msgid "File type"
-msgstr "Tipo de archivo"
+msgstr ""
 
-#: 
 msgid "Filter"
-msgstr "Filtrar"
+msgstr ""
 
-#: 
 msgid "Find"
-msgstr "Encontrar"
+msgstr ""
 
-#: 
 msgid "Find next"
-msgstr "Buscar siguiente"
+msgstr ""
 
-#: 
 msgid "Flags"
-msgstr "Banderas"
+msgstr ""
 
-#: 
 msgid "Format"
-msgstr "Formato"
+msgstr ""
 
-#: 
 msgid "General"
-msgstr "General"
+msgstr ""
 
-#: 
 msgid "Generic"
-msgstr "Genérico"
+msgstr ""
 
-#: 
 msgid "Go to"
-msgstr "Ir"
+msgstr ""
 
-#: 
 msgid "Go to address"
-msgstr "Ir a la dirección"
+msgstr ""
 
-#: 
 msgid "Hash"
-msgstr "Hash"
+msgstr ""
 
-#: 
 msgid "Header"
-msgstr "Header"
+msgstr ""
 
-#: 
 msgid "Help"
-msgstr "Ayuda"
+msgstr ""
 
-#: 
 msgid "Heuristic"
-msgstr "Heurística"
+msgstr ""
 
-#: 
 msgid "Heuristic scan"
-msgstr "Escaneo heurístico"
+msgstr ""
 
-#: 
 msgid "Image"
-msgstr "Imagen"
+msgstr ""
 
-#: 
 msgid "Images"
-msgstr "Imagenes"
+msgstr ""
 
-#: 
 msgid "Import"
-msgstr "Importar"
+msgstr ""
 
-#: 
 msgid "Info"
-msgstr "Información"
+msgstr ""
 
-#: 
 msgid "Information"
-msgstr "Información"
+msgstr ""
 
-#: 
 msgid "Installer"
-msgstr "Instalador"
+msgstr ""
 
-#: 
 msgid "Installer data"
-msgstr "Datos del instalador"
+msgstr ""
 
-#: 
 msgid "Invalid"
-msgstr "Inválido"
+msgstr ""
 
-#: 
 msgid "It is not a valid file"
-msgstr "No es un archivo valido"
+msgstr ""
 
-#: 
 msgid "Joiner"
-msgstr "Joiner"
+msgstr ""
 
-#: 
 msgid "Jumps"
-msgstr "Saltos"
+msgstr ""
 
-#: 
 msgid "Label"
-msgstr "Etiqueta"
+msgstr ""
 
-#: 
 msgid "Labels"
-msgstr "Etiquetas"
+msgstr ""
 
-#: 
 msgid "Language"
-msgstr "Idioma"
+msgstr ""
 
-#: 
 msgid "Libraries"
-msgstr "Bibliotecas"
+msgstr ""
 
-#: 
 msgid "Library"
-msgstr "Biblioteca"
+msgstr ""
 
-#: 
 msgid "Linker"
-msgstr "Enlazador"
+msgstr ""
 
-#: 
 msgid "Log"
-msgstr "Log"
+msgstr ""
 
-#: 
 msgid "Manifest"
-msgstr "Manifiesto"
+msgstr ""
 
-#: 
 msgid "Match case"
-msgstr "Match case"
+msgstr ""
 
-#: 
 msgid "Maximum"
-msgstr "Máximo"
+msgstr ""
 
-#: 
 msgid "Memory map"
-msgstr "Mapa de memoria"
+msgstr ""
 
-#: 
 msgid "Method"
-msgstr "Método"
+msgstr ""
 
-#: 
 msgid "Mode"
-msgstr "Modo"
+msgstr ""
 
-#: 
 msgid "Name"
-msgstr "Nombre"
+msgstr ""
 
-#: 
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
-#: 
 msgid "Offset"
-msgstr "Offset"
+msgstr ""
 
-#: 
 msgid "Opcode"
-msgstr "Opcode"
+msgstr ""
 
-#: 
 msgid "Opcodes"
-msgstr "Opcodes"
+msgstr ""
 
-#: 
 msgid "Open"
-msgstr "Abrir"
+msgstr ""
 
-#: 
 msgid "Open directory"
-msgstr "Directorio abierto"
+msgstr ""
 
-#: 
 msgid "Open file"
-msgstr "Abrir documento"
+msgstr ""
 
-#: 
 msgid "Options"
-msgstr "Opciones"
+msgstr ""
 
-#: 
 msgid "Overlay"
-msgstr "Cubrir"
+msgstr ""
 
-#: 
 msgid "Packer"
-msgstr "Packer"
+msgstr ""
 
-#: 
 msgid "Please restart the application"
-msgstr "Reinicia la aplicación"
+msgstr ""
 
-#: 
 msgid "Process"
-msgstr "Proceso"
+msgstr ""
 
-#: 
 msgid "Protector"
-msgstr "Protector"
+msgstr ""
 
-#: 
 msgid "Protector data"
-msgstr "Datos del protector"
+msgstr ""
 
-#: 
 msgid "Raw data"
-msgstr "Datos Raw"
+msgstr ""
 
-#: 
 msgid "Read error"
-msgstr "Error de lectura"
+msgstr ""
 
-#: 
 msgid "Readonly"
-msgstr "Solo lectura"
+msgstr ""
 
-#: 
 msgid "Recursive"
-msgstr "Recursivo"
+msgstr ""
 
-#: 
 msgid "Recursive scan"
-msgstr "Escaneo recursivo"
+msgstr ""
 
-#: 
 msgid "Ref from"
-msgstr "Ref de"
+msgstr ""
 
-#: 
 msgid "Ref to"
-msgstr "Ref a"
+msgstr ""
 
-#: 
 msgid "Regions"
-msgstr "Regiones"
+msgstr ""
 
-#: 
 msgid "Register"
-msgstr "Registrarse"
+msgstr ""
 
-#: 
 msgid "Relative virtual address"
-msgstr "Dirección virtual relativa"
+msgstr ""
 
-#: 
 msgid "Reload"
-msgstr "Recargar"
+msgstr ""
 
-#: 
 msgid "Resources"
-msgstr "Recursos"
+msgstr ""
 
-#: 
 msgid "Result"
-msgstr "Resultado"
+msgstr ""
 
-#: 
 msgid "Save"
-msgstr "Salvar"
+msgstr ""
 
-#: 
 msgid "Save backup"
-msgstr "Guardar copia de seguridad"
+msgstr ""
 
-#: 
 msgid "Save diagram"
-msgstr "Guardar diagrama"
+msgstr ""
 
-#: 
 msgid "Save dump"
-msgstr "Guardar volcado"
+msgstr ""
 
-#: 
 msgid "Save file"
-msgstr "Guardar el archivo"
+msgstr ""
 
-#: 
 msgid "Save last directory"
-msgstr "Guardar último directorio"
+msgstr ""
 
-#: 
 msgid "Save result"
-msgstr "Guardar resultado"
+msgstr ""
 
-#: 
 msgid "Scan"
-msgstr "Escanear"
+msgstr ""
 
-#: 
 msgid "Scan after open"
-msgstr "Escanear después de abrir"
+msgstr ""
 
-#: 
 msgid "Search"
-msgstr "Buscar"
+msgstr ""
 
-#: 
 msgid "Search from"
-msgstr "Buscar desde"
+msgstr ""
 
-#: 
 msgid "Search strings"
-msgstr "Buscar textos"
+msgstr ""
 
-#: 
 msgid "Section"
-msgstr "Sección"
+msgstr ""
 
-#: 
 msgid "Section name"
-msgstr "Nombre de la sección"
+msgstr ""
 
-#: 
 msgid "Sections"
-msgstr "Secciones"
+msgstr ""
 
-#: 
 msgid "Segment"
-msgstr "Segmento"
+msgstr ""
 
-#: 
 msgid "Segments"
-msgstr "Segmentos"
+msgstr ""
 
-#: 
 msgid "Select"
-msgstr "Seleccionar"
+msgstr ""
 
-#: 
 msgid "Select all"
-msgstr "Seleccionar todo"
+msgstr ""
 
-#: 
 msgid "Selection"
-msgstr "Selección"
+msgstr ""
 
-#: 
 msgid "Sign tool"
-msgstr "Herramienta de firmado"
+msgstr ""
 
-#: 
 msgid "Signature"
-msgstr "Firma"
+msgstr ""
 
-#: 
 msgid "Signatures"
-msgstr "Firmas"
+msgstr ""
 
 msgid "Single application"
-msgstr "Aplicación única"
+msgstr ""
 
-#: 
 msgid "Size"
-msgstr "Tamaño"
+msgstr ""
 
-#: 
 msgid "Source code"
-msgstr "Código fuente"
+msgstr ""
 
-#: 
 msgid "Spaces"
-msgstr "Espacios"
+msgstr ""
 
-#: 
 msgid "Status"
-msgstr "Estado"
+msgstr ""
 
-#: 
 msgid "Stay on top"
-msgstr "Permanecer por encima"
+msgstr ""
 
-#: 
 msgid "Stop"
-msgstr "Detener"
+msgstr ""
 
-#: 
 msgid "String"
-msgstr "Texto"
+msgstr ""
 
-#: 
 msgid "Strings"
-msgstr "Textos"
+msgstr ""
 
-#: 
 msgid "Stub"
-msgstr "Stub"
+msgstr ""
 
-#: 
 msgid "Style"
-msgstr "Estilo"
+msgstr ""
 
-#: 
 msgid "Table"
-msgstr "Tabla"
+msgstr ""
 
-#: 
 msgid "Text documents"
-msgstr "Documentos de texto"
+msgstr ""
 
-#: 
 msgid "Text files"
-msgstr "Archivos de texto"
+msgstr ""
 
-#: 
 msgid "Thanks"
-msgstr "Gracias"
+msgstr ""
 
-#: 
 msgid "To data"
-msgstr "A los datos"
+msgstr ""
 
-#: 
 msgid "Tool"
-msgstr "Herramienta"
+msgstr ""
 
-#: 
 msgid "Tools"
-msgstr "Herramientas"
+msgstr ""
 
-#: 
 msgid "Total"
-msgstr "Total"
+msgstr ""
 
-#: 
 msgid "Tree"
-msgstr "Árbol"
+msgstr ""
 
-#: 
 msgid "Type"
-msgstr "Tipo"
+msgstr ""
 
-#: 
 msgid "Unknown"
-msgstr "Desconocido"
+msgstr ""
 
-#: 
 msgid "Upper"
-msgstr "Superior"
+msgstr ""
 
-#: 
 msgid "Value"
-msgstr "Valor"
+msgstr ""
 
-#: 
 msgid "Version"
-msgstr "Versión"
+msgstr ""
 
-#: 
 msgid "Virtual address"
-msgstr "Dirección virtual"
+msgstr ""
 
-#: 
 msgid "Wildcard"
-msgstr "Comodín"
+msgstr ""
 
-#: 
 msgid "Write error"
-msgstr "Error de escritura"
+msgstr ""
 
-#: 
 msgid "compressor"
-msgstr "compresor"
+msgstr ""
 
-#: 
 msgid "data"
-msgstr "datos"
+msgstr ""
 
-#: 
 msgid "extender"
-msgstr "extensor"
+msgstr ""
 
-#: 
 msgid "msec"
-msgstr "mseg"
+msgstr ""
 
-#: 
 msgid "not packed"
-msgstr "no empacado"
+msgstr ""
 
-#: 
 msgid "obfuscator"
-msgstr "ofuscador"
+msgstr ""
 
-#: 
 msgid "packed"
-msgstr "comprimido"
+msgstr ""
 
-#: 
 msgid "protection"
-msgstr "proteccion"
+msgstr ""
